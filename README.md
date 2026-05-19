@@ -234,6 +234,7 @@ cyclistic-bike-share-analysis/
 │   └── Cyclistic_Bike_Analysis.R               # Complete R script
 │
 └── visualizations/
+    └── All charts produced in (R)
     └── tableau_dashboard/                 # Tableau workbook (coming soon)
 ```
 
