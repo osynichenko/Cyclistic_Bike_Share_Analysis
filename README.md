@@ -189,9 +189,9 @@ All charts produced in **ggplot2 (R)**:
 
 1. Tours count by bike type (bar chart, dodge)
 2. Distribution of bike types by customer type (% bar chart)
-3. Number of tours by day of the week (bar chart, dodge)
+3. ![Number of tours by day of the week](visualizations/Number%20of%20tours%20by%20day%20of%20the%20week.png)
 4. Average tour duration by month (bar chart, dodge)
-5. Tours by hour of the day (line chart)
+5. ![Tours by hour of the day](visualizations/Tours%20by%20hour%20of%20the%20day.png)
 
 ---
 
