@@ -189,7 +189,7 @@ All charts produced in **ggplot2 (R)**:
 
 
 1. ![Tours count by bike type](visualizations/Tours%20count%20by%20bike%20type.png)
-2. ![Distribution of bike types by customer type](visualizations/Distribution%20of%20bicycle%20types%20by%20customer%20type.png
+2. ![Distribution of bike types by customer type](visualizations/Distribution%20of%20bicycle%20types%20by%20customer%20type.png)
 3. ![Number of tours by day of the week](visualizations/Number%20of%20tours%20by%20day%20of%20the%20week.png)
 4. ![Average tour duration by month](visualizations/Average%20tour%20duration%20by%20month.png)
 5. ![Tours by hour of the day](visualizations/Tours%20by%20hour%20of%20the%20day.png)
