@@ -259,9 +259,10 @@ install.packages(c("tidyverse", "lubridate", "dplyr", "janitor",
 ##   Author
 
 **Oleksandr Synichenko**  
-IT Professional | Data Analytics Enthusiast  
-  Dubai, UAE  
-  Google Data Analytics Professional Certificate — Coursera, 2025
+IT Professional | Data Analytics Enthusiast
+https://www.linkedin.com/in/itspecotonopts/
+Dubai, UAE  
+Google Data Analytics Professional Certificate — Coursera, 2025
 
 ---
 
