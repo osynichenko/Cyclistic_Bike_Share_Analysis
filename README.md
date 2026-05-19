@@ -2,7 +2,6 @@
 ### Google Data Analytics Capstone Project
 
 ![R](https://img.shields.io/badge/R-4.x-276DC3?style=flat&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=tableau&logoColor=white)
 ![Data](https://img.shields.io/badge/Dataset-5.4M%20rows-2E86AB?style=flat)
 ![Status](https://img.shields.io/badge/Status-Completed-1D9E75?style=flat)
 
